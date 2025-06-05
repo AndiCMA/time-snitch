@@ -1,0 +1,11 @@
+﻿  SQLiteDatabaseManager.cpp
+D:\cdblcks\TimeSnitch\TimeSnitchService\AppSession.h(18,91): warning C4244: 'return': conversion from '_Rep' to 'int', possible loss of data
+D:\cdblcks\TimeSnitch\TimeSnitchService\AppSession.h(18,91): warning C4244:         with
+D:\cdblcks\TimeSnitch\TimeSnitchService\AppSession.h(18,91): warning C4244:         [
+D:\cdblcks\TimeSnitch\TimeSnitchService\AppSession.h(18,91): warning C4244:             _Rep=__int64
+D:\cdblcks\TimeSnitch\TimeSnitchService\AppSession.h(18,91): warning C4244:         ]
+  (compiling source file 'SQLiteDatabaseManager.cpp')
+  
+  TimeSnitchService.vcxproj -> D:\cdblcks\TimeSnitch\x64\Debug\TimeSnitchService.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

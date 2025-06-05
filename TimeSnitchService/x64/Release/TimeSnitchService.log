@@ -1,0 +1,8 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TimeSnitchService.vcxproj -> D:\cdblcks\TimeSnitch\x64\Release\TimeSnitchService.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
